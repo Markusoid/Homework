@@ -1,2 +1,2 @@
 "use strict";
-alert("Hellow world");
+alert("Hellow woorld");
